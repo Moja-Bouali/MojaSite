@@ -27,3 +27,32 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+---
+
+(Aquí comença el contingut que has d'afegir)
+
+## Sintaxi Avançada 
+
+Aquí afegeixo els 5 elements de sintaxi avançada:
+
+### 1. Cita (Blockquote)
+> Això és una cita. És útil per destacar un text d'una altra font.
+
+### 2. Llista de Tasques
+- [x] Tasca 1 completada
+- [ ] Tasca 2 pendent
+- [ ] Tasca 3 pendent
+
+### 3. Taula
+| Capçalera 1 | Capçalera 2 | Capçalera 3 |
+| :--- | :---: | ---: |
+| Alineat esquerra | Centrat | Alineat dreta |
+| Cel·la 4 | Cel·la 5 | Cel·la 6 |
+
+### 4. Bloc de Codi (amb llenguatge)
+```bash
+# Això és un comentari en un bloc de bash
+echo "Hola Món des d'un bloc de codi!"
+

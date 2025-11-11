@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Aquesta és la pàgina "Sobre nosaltres".
+Aquesta és la pàgina "Sobre mi".
 
 ## 1. Un títol secundari
 Això és un text normal.
