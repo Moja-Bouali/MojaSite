@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+Aquesta és la pàgina "Sobre nosaltres".
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 1. Un títol secundari
+Això és un text normal.
+* Això és una **llista amb negreta**.
+* Això és un element *en cursiva*.
+* Visita la pàgina principal [aquí](/MojaSite/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Això és un `codi inline`.
