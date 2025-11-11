@@ -31,9 +31,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ---
 
-(Aquí comença el contingut que has d'afegir)
-
-## Sintaxi Avançada 
+## Sintaxi Avançada (Pas 3)
 
 Aquí afegeixo els 5 elements de sintaxi avançada:
 
@@ -55,4 +53,3 @@ Aquí afegeixo els 5 elements de sintaxi avançada:
 ```bash
 # Això és un comentari en un bloc de bash
 echo "Hola Món des d'un bloc de codi!"
-
