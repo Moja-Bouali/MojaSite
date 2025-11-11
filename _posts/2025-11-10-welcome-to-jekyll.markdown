@@ -30,7 +30,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ---
 
-## Sintaxi Avançada (Pas 3)
+## Sintaxi Avançada 
 
 Aquí afegeixo els 5 elements de sintaxi avançada:
 
