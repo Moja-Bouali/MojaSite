@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Benvinguts"
 date:   2025-11-10 21:17:07 +0100
 categories: jekyll update
 ---
@@ -52,3 +52,4 @@ Aquí afegeixo els 5 elements de sintaxi avançada:
 ```bash
 # Això és un comentari en un bloc de bash
 echo "Hola Món des d'un bloc de codi!"
+```
