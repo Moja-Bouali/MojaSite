@@ -44,7 +44,7 @@ Aquí afegeixo els 5 elements de sintaxi avançada:
 
 ### 3. Taula
 | Capçalera 1 | Capçalera 2 | Capçalera 3 |
-| :--- | :---: | ---: |
+| :---        | :---:       | ---:        |
 | Alineat esquerra | Centrat | Alineat dreta |
 | Cel·la 4 | Cel·la 5 | Cel·la 6 |
 
